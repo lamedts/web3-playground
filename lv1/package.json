@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "bip39": "^3.0.4",
+    "commander": "^9.3.0",
+    "inquirer": "^8.2.4",
+    "web3": "^1.7.3"
+  }
+}
