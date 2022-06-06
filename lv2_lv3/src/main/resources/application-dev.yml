@@ -1,0 +1,4 @@
+web3:
+  host_url: "https://data-seed-prebsc-1-s1.binance.org:8545/"
+  dstt_contract_address: "0x715696b3AEA58920E1F5A4cF161e843405D2d384"
+  gas_price_in_gwei: "5"
