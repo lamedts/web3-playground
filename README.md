@@ -1,6 +1,6 @@
 # Web3 Playground
 
-## Difference Playground
+## Playgrounds
 [Level 1](lv1/README.md)
 
 [Level 2 and 3](lv2_lv3/README.md)

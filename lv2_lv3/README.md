@@ -34,7 +34,7 @@ $ mvn clean package
 ```
 2. execute jar
 ```
-$ java -jar target/demo-0.0.1-SNAPSHOT.jar com.laed.demo.Web3Application
+$ java -jar <path_to>/demo-0.0.1-SNAPSHOT.jar
 ```
 
 
